@@ -3,10 +3,7 @@ layout: single
 title: "My second post"
 categories: coding
 tag: github blog
-toc: true
 author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 **[공지사항]** 공부 열심히 하세요~~

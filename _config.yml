@@ -314,5 +314,9 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fas fa-solid fa-cat"
 
 date_format: "%Y-%m-%d"
