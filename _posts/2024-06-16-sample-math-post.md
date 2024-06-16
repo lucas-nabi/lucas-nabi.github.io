@@ -7,5 +7,7 @@ author_profile: false
 use_math: true
 ---
 
+아주 간단한 공식
+
 $\[ x^n + y^n = z^n \]$
 
