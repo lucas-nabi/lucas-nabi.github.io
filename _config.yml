@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucas"
-  avatar           : /images/cat_profile.jpeg
+  avatar           : /images/avatar/cat_profile.jpeg
   bio              : "Lucas' blog"
   location         : "South Korea"
   email            :
