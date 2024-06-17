@@ -237,6 +237,8 @@ body:hover .visually-hidden button {
     $xing-color: ".fa-xing, .fa-xing-square",
     $youtube-color: ".fa-youtube",
     $gmail-color: ".fa-envelope-square",
+    $kakao-color: ".fa-sharp, .fa-solid, .fa-k",
+    $whatsapp-color: ".fa-fw, .fa-whatsapp"
   ) {
     #{$icons} {
       color: $color;
@@ -587,4 +589,3 @@ pre {
 .img-width-half {
   width: 50%;
 }
-
