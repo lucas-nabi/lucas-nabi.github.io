@@ -236,6 +236,9 @@ body:hover .visually-hidden button {
     $vine-color: ".fa-vine",
     $xing-color: ".fa-xing, .fa-xing-square",
     $youtube-color: ".fa-youtube",
+    $gmail-color: ".fa-envelope-square",
+    $kakao-color: ".fa-k",
+    $whatsapp-color: ".fa-whatsapp",
   ) {
     #{$icons} {
       color: $color;
