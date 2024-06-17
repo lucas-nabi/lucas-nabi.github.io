@@ -238,7 +238,7 @@ body:hover .visually-hidden button {
     $youtube-color: ".fa-youtube",
     $gmail-color: ".fa-envelope-square",
     $kakao-color: ".fa-k",
-    $whatsapp-color: ".fa-whatsapp"
+    $whatsapp-color: ".fa-whatsapp",
   ) {
     #{$icons} {
       color: $color;
