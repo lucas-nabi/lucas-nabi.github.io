@@ -81,7 +81,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "google7cc30feddaf38c06"
+google_site_verification : # 다운로드 받은 코드 파일 프로젝트 파일 아래에 넣었으므로 굳이 등록 X
 bing_site_verification   :
 naver_site_verification  : "ad32b7923147ce56950a5b0a0de5f50ad41a4b1c"
 yandex_site_verification :
