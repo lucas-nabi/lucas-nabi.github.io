@@ -211,6 +211,15 @@ body:hover .visually-hidden button {
     color: $text-color;
   }
 
+  .fa-email {
+    color: #EA4335;
+  }
+
+  .fa-github {
+    color: #181717;
+  }
+
+
   @each $color, $icons in (
     $behance-color: ".fa-behance, .fa-behance-square",
     $bitbucket-color: ".fa-bitbucket",
@@ -586,3 +595,4 @@ pre {
 .img-width-half {
   width: 50%;
 }
+

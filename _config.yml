@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "Lucas"
   avatar           : assets/images/avatar/cat_profile.jpeg
-  bio              : "Lucas' blog"
-  location         : "South Korea"
+  bio              : "Future Digital Nomad"
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
