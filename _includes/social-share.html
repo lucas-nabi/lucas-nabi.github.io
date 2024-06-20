@@ -3,7 +3,7 @@
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-  <a href="kakaotalk://sendurl?url={{ page.url | absolute_url }}" class="btn btn--kakao" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} KakaoTalk"><i class="fab fa-sharp fa-solid fa-k" aria-hidden="true"></i><span> KakaoTalk</span></a>
+  <a href="kakaotalk://send?text={{ page.url | absolute_url | url_encode }}" class="btn btn--kakaotalk" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} KakaoTalk"><i class="fab fa-sharp fa-solid fa-k" aria-hidden="true"></i><span> KakaoTalk</span></a>
 
   <a href="whatsapp://send?text={{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
 

@@ -40,8 +40,8 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (linkedin, $linkedin-color),
-  (kakao, $kakao-color),
-  (whatsapp, $whatsapp-color);
+  (whatsapp, $whatsapp-color),
+  (kakaotalk, $kakaotalk-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
